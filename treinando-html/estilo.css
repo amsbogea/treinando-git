@@ -1,6 +1,6 @@
 p {
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: aqua;
-    text-shadow: blue;
+    color: rgb(26, 231, 78);
+    text-shadow: blue 10px;
 }
